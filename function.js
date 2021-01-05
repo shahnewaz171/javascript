@@ -71,7 +71,7 @@ operation(10, 5, function(c, d){
 
 
 
-var names= ['Muhammad', 'Shahnewaz', 'Khondokar', 'Mun', 'perfect', 'Awesome', 'Khondokar', 'Shahnewaz'];
+var names= ['Muhammad', 'Shahnewaz', 'Khondokar', 'Mun', 'perfect', 'Awesome', 'Shahriar', 'Photography'];
 
 function traverse(names, callback) {
     for (var i=0; i<names.length; i++){
