@@ -25,11 +25,6 @@ names.forEach(function(name){
 });
 
 
-function print(name){
-    console.log(name);
-}
-
-
 function operation(a, b, callback){
     var c= a+b;
     var d = a-b;
