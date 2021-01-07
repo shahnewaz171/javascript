@@ -78,6 +78,7 @@ traverse(names, function(name){
     
 });//end
 
+//Multiplication
 var x = myFunction(4, 3);
 
 console.log(x);
@@ -86,6 +87,7 @@ function myFunction(a, b){
     return a * b;
 }
 
+//Celsius
 function toCelsius(f){
     return (5/9) * (f-12);
 }
