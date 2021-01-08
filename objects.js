@@ -1,7 +1,7 @@
 //=====Objects===== 
 
 var person = {};
-person.name = 'Muhammad Shahnewaz';
+person.name = ' Shahnewaz';
 person.age = '60';
 person.print = function(){
     console.log(this.name + ' ' + this.age);
