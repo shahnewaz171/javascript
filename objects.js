@@ -13,7 +13,7 @@ person.print();
 
 var person = {
     name: 'Muhammad Shahnewaz',
-    age: 24,
+    age: 22,
     skills: ['HTMl, CSS, JavaScript, React, Node, Bootstrap'],
 
     print: function(){
