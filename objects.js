@@ -2,7 +2,7 @@
 
 var person = {};
 person.name = 'Muhammad Shahnewaz';
-person.age = '60';
+person.age = '40';
 person.print = function(){
     console.log(this.name + ' ' + this.age);
 }; 
